@@ -1,0 +1,10 @@
+id,income,expense,result
+1,low,low,consider
+2,low,average,accept
+3,low,high,accept
+4,average,low,reject
+5,average,average,consider
+6,average,high,accept
+7,high,low,reject
+8,high,average,reject
+9,high,high,consider
