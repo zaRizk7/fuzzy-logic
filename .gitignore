@@ -130,3 +130,6 @@ dmypy.json
 
 # DS STORE
 .DS_Store
+
+# Excel File
+*.xlsx
