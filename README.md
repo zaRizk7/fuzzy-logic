@@ -18,3 +18,7 @@ Processes you need to build (can be functions/procedures):
 * Defuzzification
 
 Output from your sistem a Bantuan.xls file which contains one column vector containing 20 rows of integer-valued numbers (whole numbers) that represent the row / record numbers (1-100) in the Mahasiswa.xls file.
+
+Note that there are two versions of my fuzzy logic implementation:
+* Detailed version, using R
+* Lite version, using Python
